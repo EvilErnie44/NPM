@@ -1,0 +1,19 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Test NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvilErnie44/NPM.git"
+  },
+  "author": "Simon Dean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvilErnie44/NPM/issues"
+  },
+  "homepage": "https://github.com/EvilErnie44/NPM#readme"
+}
